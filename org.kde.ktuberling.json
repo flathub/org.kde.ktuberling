@@ -56,8 +56,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/17.12.3/src/ktuberling-17.12.3.tar.xz",
-                    "sha256": "247b165bd38edf83e46be1982aa8750fd4a3d9ba129b29b3b5e3fb68bf4b16e7"
+                    "url": "https://download.kde.org/stable/applications/18.04.0/src/ktuberling-18.04.0.tar.xz",
+                    "sha256": "cd20a981f59a257298fa9c0027fab9bc4b9439a31bd9c66515e097591458b98a"
                 }
             ]
         },
