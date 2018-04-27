@@ -43,7 +43,7 @@
   <name xml:lang="pa">ਆਲੂ ਮੁੰਡਾ</name>
   <name xml:lang="pl">Ziemniaczany facet</name>
   <name xml:lang="pt">Homem Batata</name>
-  <name xml:lang="pt_BR">Homem-Batata</name>
+  <name xml:lang="pt_BR">Sr. Batata</name>
   <name xml:lang="ro">Domnul Cartof</name>
   <name xml:lang="ru">Картофельный парень</name>
   <name xml:lang="se">Buđetolmmái</name>
@@ -79,7 +79,7 @@
   <summary xml:lang="nn">Eit enkelt biletbyggjespel for både store og små</summary>
   <summary xml:lang="pl">Prosta gra twórcza kierowana dla dzieci i dorosłych</summary>
   <summary xml:lang="pt">Um jogo de construção simples, adequado tanto para crianças como adultos</summary>
-  <summary xml:lang="pt_BR">Um jogo de construção simples, adequado para crianças e adultos</summary>
+  <summary xml:lang="pt_BR">Dê uma cara engraçada ao Sr. Batata</summary>
   <summary xml:lang="ru">Игра-конструктор для детей, а также взрослых, впадающих в детство</summary>
   <summary xml:lang="sk">Jednoduchá výstavbová hra vhodná pre deti a dospelých</summary>
   <summary xml:lang="sl">Preprosta igra sestavljanja primerna za mlajše in starejše otroke</summary>
@@ -93,9 +93,8 @@
   <summary xml:lang="zh_CN">一个简单的建造游戏，适合儿童和成人</summary>
   <summary xml:lang="zh_TW">適合小孩與童心未泯的大人們的簡單遊戲</summary>
   <developer_name>KTuberling Team</developer_name>
-  <description>
-    <p>KTuberling a simple constructor game suitable for children and adults alike. The idea of the game is based around a once popular doll making concept.</p>
-  </description>
+  <description xml:lang="pt_BR"><p>Esse é um joguinho para crianças e adultos jogarem juntos. Baseado no Sr. Cabeça de Batata, esse jogo permite que você altere as características do rosto da batata, fazendo caretas, usando bigodes, orelhões, etc. O objetivo é montar o rosto mais engraçado e garantir boas risadas.</p></description>
+  <description><p>KTuberling a simple constructor game suitable for children and adults alike. The idea of the game is based around a once popular doll making concept.</p></description>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0+</project_license>
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=ktuberling</url>
