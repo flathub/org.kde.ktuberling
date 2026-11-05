@@ -32,8 +32,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.08.2/src/libkdegames-26.08.2.tar.xz",
-                    "sha256": "64f5c1a0c79833057ff23fa246a93873ad65730c825c2ba46296741bc079d3ae",
+                    "url": "https://download.kde.org/stable/release-service/26.08.3/src/libkdegames-26.08.3.tar.xz",
+                    "sha256": "a543fe657621366b4cd9da7cba56a1844f66f8c9cc9fb616f08f0c5513f33d1a",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -53,8 +53,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.08.2/src/ktuberling-26.08.2.tar.xz",
-                    "sha256": "d5b45e7f861d9c22b25877603ac269e630237e29f0a7727894af56a47c41706e",
+                    "url": "https://download.kde.org/stable/release-service/26.08.3/src/ktuberling-26.08.3.tar.xz",
+                    "sha256": "d00cbbe1d50f9729640652b757fd7cab7f5d1e12be42953d3af395c37a2c3318",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
